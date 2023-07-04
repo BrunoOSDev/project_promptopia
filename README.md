@@ -1,3 +1,49 @@
+<h1 align="center"> Promptopia </h1>
+
+<p align="center">
+Exclusive and free software, promoted by JavaScript Mastery for teaching WEB technologies - Full Stack with Next.js.
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="projeto Promptopia" src=".github/preview.jpg" width="100%">
+</p>
+
+## 🚀 Technologies and frameworks
+
+This project was developed with the following technologies:
+
+- CSS
+- Next.js
+- MongoDB
+- Google Cloud (API's & Services)
+- Git and Github
+
+## 📖 Teachings
+
+- Next.js 13 App Folder Structure
+- Next.js 13 Client Components vs Server Components
+- Next.js 13 File-based Routing (including dynamic and nested routes)
+- Next.js 13 page, layout, loading, and error Special Files
+- Next.js 13 Serverless Route Handlers (Next API, Full Stack Apps)
+- Next.js 13 Metadata and Search Engine Optimization (SEO)
+- Three ways to fetch data in Next.js:
+  - Server Side Rendering (SSR)
+  - Static Site Generation (SSG)
+  - Incremental Static Generation (ISR)
+
+## 💻 Project
+
+Promptopia is an open-source AI prompting tool for modern world to discover, create and share creative prompts
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
